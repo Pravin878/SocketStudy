@@ -1,6 +1,6 @@
 # Ex.No:1a  	Study of Socket Programming
-### Register No: 212222100052
-### Name: Surya SK
+### Register No: 212222230109
+### Name: Pravin kumar G
 
 ## Aim: 
 To perform a study on Socket Programming
